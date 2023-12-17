@@ -3,3 +3,4 @@ scikit-learn==1.3.2
 pandas
 torchvision==0.16.1
 matplotlib==3.8.2
+seaborn
